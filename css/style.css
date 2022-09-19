@@ -1,0 +1,46 @@
+ /*fonts start */
+@font-face{
+	src: url(../fonts/montserrat/montserrat-regular.ttf);
+	font-family: 'Montserrat', sans-serif;
+
+}
+@font-face{
+	src: url(../fonts/montserrat/montserrat-medium.ttf);
+	font-family: 'Montserrat', sans-serif;
+
+}
+@font-face{
+	src: url(../fonts/montserrat/montserrat-bold.ttf);
+	font-family: 'Montserrat', sans-serif;
+
+}
+@font-face{
+	src: url(../fonts/montserrat/montserrat-semibold.ttf);
+	font-family: 'Montserrat', sans-serif;
+
+}
+@font-face{
+	src: url(../fonts/montserrat/montserrat-bolditalic.ttf);
+	font-family: 'Montserrat', sans-serif;
+
+}
+@font-face{
+	src: url(../fonts/audiowide/audiowide-regular.ttf);
+	font-family: 'Audiowide', cursive;
+
+}
+/* fonts end */
+/* common start */
+
+body{
+  padding: 30px 0;
+  background-color: beige;
+    
+    }
+.input_events{
+	padding: 30px 0;
+}
+
+.mouse_events{
+	padding: 30px 0;
+}
